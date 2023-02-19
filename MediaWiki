@@ -1,0 +1,7 @@
+MediaWiki es una plataforma de software libre de gestión de contenidos que se utiliza en la Wikipedia y otros proyectos similares. Permite la creación, edición y publicación de contenidos web. Algunas de las características de MediaWiki son:
+Es una plataforma web que funciona en cualquier navegador web.
+Permite la creación y edición colaborativa de contenido.
+Proporciona un historial de cambios y versiones de los contenidos.
+Permite la organización del contenido mediante categorías y etiquetas.
+Es altamente personalizable mediante la instalación de extensiones.
+MediaWiki es una buena opción para proyectos que requieren la creación y edición colaborativa de contenidos web, como wikis o documentación de proyectos.
