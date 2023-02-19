@@ -1,1 +1,1 @@
-# ActividadT14yT15
+MediaWiki y Doxygen son herramientas muy diferentes que se utilizan para propósitos muy distintos. MediaWiki es una plataforma de gestión de contenidos web que se utiliza para crear y editar contenidos de forma colaborativa, mientras que Doxygen es una herramienta de generación de documentación que se utiliza para generar documentación a partir del código fuente de un proyecto de software.
