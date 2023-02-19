@@ -1,0 +1,7 @@
+Doxygen es una herramienta de generación de documentación para proyectos de software en C++, C, Java, Objective-C, Python, IDL, Fortran, VHDL, PHP, C# y D. Permite la generación automática de documentación a partir de comentarios en el código fuente. Algunas de las características de Doxygen son:
+
+Soporte para múltiples lenguajes de programación.
+Generación automática de documentación a partir de comentarios en el código fuente.
+Admite varios formatos de salida, como HTML, LaTeX, RTF y XML.
+Genera gráficos de jerarquía de clases y de colaboración entre clases.
+Doxygen es una herramienta muy útil para proyectos de software que requieren una documentación detallada y actualizada, ya que permite generar automáticamente la documentación a partir del código fuente.
